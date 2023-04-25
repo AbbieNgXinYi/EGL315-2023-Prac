@@ -22,3 +22,28 @@ Room 540
 ### Code Line
 `sudo raspi-config`
 
+### Adding a Picture
+I'm Bocchi!
+![Alt text](Images/Screenshot%202023-04-25%20101535.png)
+
+
+
+## Block Diagram
+### TD stands for Top Down (Top to Bottom)
+```mermaid
+graph TD
+
+A[Raspberry Pi 4]--> B[Router]
+B --> C[TV]
+D[Light Sensor] --> A
+A --> D
+E --> A
+E --> C
+```
+
+### LR stands for Left to Right
+```mermaid
+graph LR
+
+A --> B
+```
