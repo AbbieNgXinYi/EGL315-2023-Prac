@@ -39,7 +39,7 @@ A[Raspberry Pi 4]--> B[Router]
 B --> C[TV]
 D[Light Sensor] --> A
 A --> D
-E --> A
+E[ME >_<>] --> A
 E --> C
 ```
 
