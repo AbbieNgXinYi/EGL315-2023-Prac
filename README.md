@@ -10,7 +10,7 @@ Abbie Ng Xin Yi (Normal)
 ***Abbie Ng Xin Yi*** (Italics & Bold)
 
 ## School
-There are two options to insert codes
+### There are two options to insert codes
 
 ### Code Block
 ```
@@ -18,4 +18,7 @@ I am at Nanyang Polytechnic
 Block S
 Room 540
 ```
+
+### Code Line
+`sudo raspi-config`
 
