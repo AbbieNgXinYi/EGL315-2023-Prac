@@ -23,7 +23,9 @@ Room 540
 `sudo raspi-config`
 
 ### Adding a Picture
+
 I'm Bocchi!
+
 ![Alt text](Images/Screenshot%202023-04-25%20101535.png)
 
 
